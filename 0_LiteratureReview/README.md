@@ -4,7 +4,7 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Explaining Reinforcement Learning Policies by Extending Sets of Unexplained Features]
+- **Source 1**: "Explaining Reinforcement Learning Policies by Extending Sets of Unexplained Features"
 
   - **[https://arxiv.org/abs/2402.01642]()**
   - **Objective**: To explain reinforcement learning policies by extending the set of unexplained features in machine learning models.
