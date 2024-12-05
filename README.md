@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Distinguishing-AI-Generated-Text-from-Human-Writing
 
 ## Repository Link
 
