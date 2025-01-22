@@ -19,9 +19,9 @@ Classification/ Text Classification
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Logistic Regression
+- **Evaluation Metric:** Accuracy, MSE
+- **Result:** 98% accuracy
 
 ## Documentation
 
