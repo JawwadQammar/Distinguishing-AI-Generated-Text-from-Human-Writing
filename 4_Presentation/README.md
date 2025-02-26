@@ -1,3 +1,3 @@
 # Presentation
 
-**[Slides](name_of_your_file_including_the_presentation_slides)**
+**[Slides](Distinguishing_AI_Generated_Text_from_Human_Writing.pdf)**
